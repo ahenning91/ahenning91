@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning how to use R
 - 🤔 I’m looking for help with coding
 - 😄 Pronouns: she/her
+- :) 
